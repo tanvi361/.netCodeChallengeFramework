@@ -1,4 +1,4 @@
-Create a PRIVATE Repository on your Github account either using the "Use this template" option. Work on solution for the coding challenge. Commit as you go to save your work incrementally. When done with the solution, push the code to github repository.
+Create a PRIVATE Repository on your Github account using the "Use this template" option. Work on solution for the coding challenge. Commit as you go to save your work incrementally. When done with the solution, push the code to github repository.
 
 Go to Github Repository > Settings > Manage Access. Grant access to following users on your private repository: @sdekok, @cloudbomber, @mikedennis
 
