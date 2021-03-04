@@ -1,4 +1,4 @@
-Create a PRIVATE Repository on your Github account using the "Use this template" option. Work on solution for the coding challenge. Commit as you go to save your work incrementally. When done with the solution, push the code to github repository.
+Create a **PRIVATE** Repository on your Github account using the **"Use this template"** option. Work on solution for the coding challenge. Commit as you go to save your work incrementally. When done with the solution, push the code to github repository.
 
 Go to Github Repository > Settings > Manage Access. Grant access to following users on your private repository: @sdekok, @cloudbomber, @mikedennis
 
@@ -6,7 +6,7 @@ Scenario:
 The World Wide Bank is a growing bank based in Canada that accepts money in North American currencies. The Bank’s customers can create 1 or more checking accounts, including joint accounts. The checking account balance is always tracked in Canadian currency. Deposits and withdraws can be made in Canadian dollars, US dollars or Mexican Pesos. The applicable exchange rate is applied when depositing or withdrawing a foreign currency. Funds can be transferred between two different accounts.
 
 Instructions:
-Create an application that demonstrates your ability to build an API and object model that reflects the scenario. You are free to implement any mechanism for feeding input into your solution (for example, using hardcoded data within a unit test). You should provide enough evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data. The solution should be created in C#. Persistent storage is not required for this test.
+Create an application that demonstrates your ability to build an API and object model that reflects the scenario. You should provide enough evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data. The solution should be created in C#. Persistent storage is not required for this test.
 
 The focus of our evaluation will be:
 
