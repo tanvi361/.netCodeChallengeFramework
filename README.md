@@ -10,10 +10,10 @@ Create an application that demonstrates your ability to build an API and object 
 
 The focus of our evaluation will be:
 
-To test your ability to create an API and object model based on a problem statement
-To test your ability to use a unit testing framework of your choice
-To test that the expected output is correct
-Optional: Fully demonstrate your full stack skills by creating a UI for the C# application in modern React. If you choose to do this, we will evaluate it as a demonstration of your ability to create a UI and manage state in a react front end.
+- To test your ability to create an API and object model based on a problem statement
+- To test your ability to use a unit testing framework of your choice
+- To test that the expected output is correct
+- Optional: Fully demonstrate your full stack skills by creating a UI for the C# application in modern React. If you choose to do this, we will evaluate it as a demonstration of your ability to create a UI and manage state in a react front end.
 
 Exchange Rates: $1.00 CAD = $0.50 USD $1.00 CAD = $10.00 MXN
 
@@ -28,8 +28,14 @@ Case 4: Customer: Peter Griffin Customer ID: 123 Account Number: 0123 Initial ba
 
 Case 5: Customer: Joe Swanson Customer ID: 002 Account Number: 1010 Initial balance for account number 1010: $7,425.00 CAD Famous social engineer and thief John Shark (Customer ID 219) attempts to withdraw $100 USD from account 1010. The bank determines that the account is not John’s and refuses to give him the money. Optional: The bank notifies Joe Swanson that an unauthorized user attempted to withdraw money.
 
+Results:
+
 Output 1: Account Number: 1234 Balance: $700.00 CAD 
+
 Output 2: Account Number: 2001 Balance: $9,800 CAD 
+
 Output 3: Account Number: 1010 Balance: $1,497.60 CAD Account Number: 5500 Balance: $17,300.00 CAD 
+
 Output 4: Account Number: 0123 Balance: $33.75 CAD Account Number: 0456 Balance: $112,554.25 CAD 
+
 Output 5: Account Number: 1010 Balance: $7,425.00 CAD
