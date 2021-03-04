@@ -3,7 +3,7 @@ Create a **PRIVATE** Repository on your Github account using the **"Use this tem
 Go to Github Repository > Settings > Manage Access. Grant access to following users on your private repository: @sdekok, @cloudbomber, @mikedennis
 
 Instructions:
-Create an application that demonstrates your ability to build an API and object model that reflects the scenario. You should provide enough evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data. The solution should be created in C#. Persistent storage is not required for this test.
+Create an application using this framework that demonstrates your ability to build an API and object model that reflects the scenario. You should provide enough evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data. The solution should be created in C#. Persistent storage is not required for this test.
 
 The focus of our evaluation will be:
 
