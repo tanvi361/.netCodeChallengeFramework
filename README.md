@@ -7,7 +7,7 @@ Create an application using this framework that demonstrates your ability to bui
 
 The focus of our evaluation will be:
 
-- To test your ability to create an API and object model based on a problem statement
+- To test your ability to create and/or update an API and object model based on a problem statement
 - To test your ability to use a unit testing framework of your choice
 - To test that the expected output is correct
 - Optional: Fully demonstrate your full stack skills by creating a UI for the C# application in modern React. If you choose to do this, we will evaluate it as a demonstration of your ability to create a UI and manage state in a react front end.
