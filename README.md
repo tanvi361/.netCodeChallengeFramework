@@ -1,6 +1,6 @@
 Create a **PRIVATE** Repository on your Github account using the **"Use this template"** option. Work on solution for the coding challenge. Commit as you go to save your work incrementally. When done with the solution, push the code to github repository.
 
-Go to Github Repository > Settings > Manage Access. Grant access to following users on your private repository: @sdekok, @cloudbomber, @mikedennis
+Go to Github Repository > Settings > Manage Access. Grant access to following users on your private repository: @sdekok, @cloudbomber, @sj-dixon
 
 **Code Challenge Instructions:**
 Create an application using this framework that demonstrates your ability to build an API and object model that reflects the scenario. You should provide enough evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data. The solution should be created in C#. Persistent storage is not required for this test.
